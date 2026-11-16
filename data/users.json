@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "username": "gkittle85",
+    "fullName": "George Kittle",
+    "email": "gkittle@artificial-star.test",
+    "bio": "Tight end. All-Pro. Blocks like a pulling guard.",
+    "role": "admin",
+    "password": "BlockParty-85!Rumble",
+    "createdAt": "2017-04-28"
+  },
+  {
+    "id": 2,
+    "username": "jlynch",
+    "fullName": "Jerick Lynch",
+    "email": "jlynch@artificial-star.test",
+    "bio": "Scout. Eats film for breakfast.",
+    "role": "staff",
+    "password": "FilmRoom-tape2026",
+    "createdAt": "2021-09-01"
+  },
+  {
+    "id": 3,
+    "username": "mdavis",
+    "fullName": "Mina Davis",
+    "email": "mdavis@artificial-star.test",
+    "bio": "Strength coach. Deadlifts respect.",
+    "role": "staff",
+    "password": "SquatRack!deep-9x3",
+    "createdAt": "2022-02-14"
+  },
+  {
+    "id": 4,
+    "username": "tnguyen",
+    "fullName": "Tai Nguyen",
+    "email": "tnguyen@artificial-star.test",
+    "bio": "Analytics. Finds the open man in the data.",
+    "role": "staff",
+    "password": "ExpectedPointsAdded+0.42",
+    "createdAt": "2023-06-10"
+  },
+  {
+    "id": 5,
+    "username": "rfernandez",
+    "fullName": "Rosa Fernandez",
+    "email": "rfernandez@artificial-star.test",
+    "bio": "Equipment manager. Nothing gets lost on her watch.",
+    "role": "staff",
+    "password": "ShoulderPads-locker-7",
+    "createdAt": "2020-07-22"
+  },
+  {
+    "id": 6,
+    "username": "intern.sam",
+    "fullName": "Sam Rivera",
+    "email": "sam.rivera@artificial-star.test",
+    "bio": "Summer intern. Fetches the Gatorade.",
+    "role": "guest",
+    "password": "temp-pass-change-me-2026",
+    "createdAt": "2026-06-01"
+  }
+]
